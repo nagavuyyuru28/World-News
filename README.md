@@ -33,7 +33,7 @@ ____________
  
  ____________
  
-  <img src="images/article.png" height="500"/> <img src="images/articlegroup.png" height="500"/> 
+  <img src="images/article.png" height="500" hspace="20"/> <img src="images/articlegroup.png" height="500" hspace="20"/> 
 
   <img src="images/articlecount.png" height="500"/>
 
