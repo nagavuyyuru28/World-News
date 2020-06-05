@@ -34,8 +34,8 @@ ____________
  ____________
  
 <p float="left">
-  <img src="images/article.png" width="300" height="500"/>
-  <img src="images/articlegroup.png" width="300" height="500"/> 
+  <img src="images/article.png" height="500"/>
+  <img src="images/articlegroup.png" height="500"/> 
   <img src="images/articlegroup.png" height="500"/>
 </p>
 
