@@ -23,13 +23,13 @@ ____________
    
 ## Functionality
 
- **Main Screen Updates** - Stories shown on the main screen update properly whenever new news data is fetched from the API.
- **Story Intents** - Clicking on a story uses an intent to open the story in the user’s browser.
- **API Query** - App queries the content.guardianapis.com api to fetch news stories related to the topic chosen by the student, using either the ‘test’ api key or the student’s key.
- **JSON Parsing** - The JSON response is parsed correctly, and relevant information is stored in the app.
- **No Data Message** - When there is no data to display, the app shows a default TextView that informs the user how to populate the list.
- **Response Validation** - The app checks whether the device is connected to the internet and responds appropriately. The result of the request is validated to account for a bad server response or lack of server response.
- **Use of Loaders** - Networking operations are done using a Loader rather than an AsyncTask.
+1. **Main Screen Updates** - Stories shown on the main screen update properly whenever new news data is fetched from the API.
+2. **Story Intents** - Clicking on a story uses an intent to open the story in the user’s browser.
+3. **API Query** - App queries the content.guardianapis.com api to fetch news stories related to the topic chosen by the 		    student, using either the ‘test’ api key or the student’s key.
+4. **JSON Parsing** - The JSON response is parsed correctly, and relevant information is stored in the app.
+5. **No Data Message** - When there is no data to display, the app shows a default TextView that informs the user how to 			  populate the list.
+6. **Response Validation** - The app checks whether the device is connected to the internet and responds appropriately. The 				 result of the request is validated to account for a bad server response or lack of server 				     response.
+7. **Use of Loaders** - Networking operations are done using a Loader rather than an AsyncTask.
  
  ____________
  
