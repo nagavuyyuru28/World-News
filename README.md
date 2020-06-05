@@ -33,8 +33,11 @@ ____________
  
  ____________
  
- ![](images/article.png)  ![](images/articlegroup.png)
- 
- ![](images/articlecount.png)
+<p float="left">
+  <img src="images/article.png" width="300" height="500"/>
+  <img src="images/articlegroup.png" width="300" height="500"/> 
+  <img src="images/articlegroup.png" height="500"/>
+</p>
+
  
 
